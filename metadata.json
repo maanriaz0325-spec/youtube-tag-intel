@@ -1,0 +1,8 @@
+{
+  "name": "Tracktube",
+  "description": "Advanced YouTube tag extractor and intelligence analyzer with deep relevance scoring and competitor tag discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
